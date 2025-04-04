@@ -5,10 +5,12 @@
 2. Copy and paste the given java code (Library_management.java) in created folder with the same name as class name and click on save
 
 3. Setup MySQL Database 
-    ----> * CREATE DATABASE Library_dbs;
-          * USE Library_dbs;
+---->
+     * CREATE DATABASE Library_dbs;
+     * USE Library_dbs;
    * Create a table for storing books:
-     ---->    * CREATE TABLE books (
+     ---->    
+              * CREATE TABLE books (
               * bookID VARCHAR(10) PRIMARY KEY,
               * title VARCHAR(255),
               * author VARCHAR(255),
