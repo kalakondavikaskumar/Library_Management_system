@@ -1,6 +1,6 @@
 # Library_Management_system
 
-1. create a new Java project folder (e.g., "Library_Management")
+1. Create a new Java project folder (e.g., "Library_Management")
 
 2. Copy and paste the given java code (Library_management.java) in created folder with the same name as class name and click on save
 
