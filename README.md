@@ -31,7 +31,7 @@
       Open VS Code Terminal and Run
          * Compile Your Java Code : java -cp ".;mysql-connector-j-9.2.0.jar" Library_management.java
          * Run Your Java Code     : java -cp ".;mysql-connector-j-9.2.0.jar" Library_management
-     * if you use command prompt open your terminal in project folder then compile and run the program
+         * if you use command prompt open your terminal in project folder then compile and run the program
        
      
            
