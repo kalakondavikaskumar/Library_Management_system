@@ -33,10 +33,12 @@
          * Run Your Java Code     : java -cp ".;mysql-connector-j-9.2.0.jar" Library_management
          * if you use command prompt open your terminal in project folder then compile and run the program
 
- ![Screenshot (473)](https://github.com/user-attachments/assets/5723b14d-d414-431e-9f9d-7d9c84dcad63)
 
        
-     
+      ![Screenshot (473)](https://github.com/user-attachments/assets/3dde45ab-5a2d-40fa-83f2-3b48220633d2)
+      <img src="https://github.com/user-attachments/assets/3dde45ab-5a2d-40fa-83f2-3b48220633d2" width="300" height="200"  />
+
+
            
 
 
